@@ -795,3 +795,9 @@
 			{
 				background-color: #e8edec;
 			}
+			#teamtable td
+			{
+			//	valign: middle;
+//				vertial-align: middle;
+			//	align: justify;
+			}
